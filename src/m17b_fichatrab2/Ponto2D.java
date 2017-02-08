@@ -2,7 +2,7 @@ package m17b_fichatrab2;
 
 /**
  * Classe Ponto2D, para instaciar pontos.
- * @version 0.1, 8.fev.2017
+ * @version 0.2, 8.fev.2017
  * @author Alfredo Bravo
  */
 
