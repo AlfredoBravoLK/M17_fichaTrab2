@@ -51,13 +51,12 @@ public class Ponto2D {
     }
     
     /**
-     * Calcular o valor entre as distâncias entre os dois pontos.
+     * Calcular o valor entre as distâncias entre as duas coordenadas.
      * @param a
      * @return Distância entre ambos os pontos.
      */
     
     public double distancia(Ponto2D a){
-        
         return Math.abs(Math.sqrt(Math.pow((x-a.x),2)+Math.pow((y-a.y),2)));
     }
     
